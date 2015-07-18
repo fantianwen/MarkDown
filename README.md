@@ -4,4 +4,6 @@
 ##2015-5-28：
 ###上传android studio中如何正确导入三方库。  
 ##2015-7-1:
-###上传Cordova插件开发
+###上传Cordova插件开发。	
+##2015-7-18：
+###android Lollipop中Transition学习。
